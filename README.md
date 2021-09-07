@@ -21,7 +21,7 @@ I'm a self-taught passionate Full Stack developer from Brazil
 
 | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonsns&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsns&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<!--
 #### Top Repositories
 
 
@@ -31,7 +31,7 @@ I'm a self-taught passionate Full Stack developer from Brazil
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=jacksonsns.github.io&theme=buefy" />
 </a>
-<!--
+
 <br />
 <br />
 
