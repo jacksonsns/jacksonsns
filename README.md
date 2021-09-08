@@ -6,7 +6,7 @@ I'm a self-taught passionate Full Stack developer from Brazil
 
 - 💼 Full Stack developer
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Passionate about programming
 
 
 **Languages and Tools:**  
