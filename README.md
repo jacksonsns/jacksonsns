@@ -10,11 +10,13 @@ I'm a self-taught passionate Full Stack developer from Brazil
 
 
 **Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>    
+   
 
 
 | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonsns&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsns&layout=compact&theme=buefy&hide_border=true" /></a> |
