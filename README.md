@@ -4,7 +4,7 @@ I'm Jackson Nascimento, web developer, always looking for new knowledge, with th
 
 **About me**
 
-- 💼 Full Stack developer
+- 💼 Web Stack developer
 
 - ❤️ Passionate about programming
 
