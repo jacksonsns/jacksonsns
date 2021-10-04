@@ -10,12 +10,12 @@ I'm Jackson Nascimento, web developer, always looking for new knowledge, with th
 
 
 **Languages and Tools:**  
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
    
 
 
