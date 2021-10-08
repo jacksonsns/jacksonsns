@@ -1,6 +1,6 @@
 ## Hi there, I'm Jackson Nascimento
 
-I'm Jackson Nascimento, web developer, always looking for new knowledge, with the purpose of helping and making people's lives easier through technology. I love challenges and I believe in transforming the world with the power of information..
+I'm Jackson Nascimento, web developer, always looking for new knowledge, with the purpose of helping and making people's lives easier through technology. I love challenges and I believe in transforming the world with the power of information.
 
 **About me**
 
