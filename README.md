@@ -20,7 +20,7 @@ I'm Jackson Nascimento, web developer, always looking for new knowledge, with th
 
 
 | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonsns&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsns&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | -------------
+| ------------- | -------------  
 
 <br />
 <br />
