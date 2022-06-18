@@ -23,7 +23,7 @@
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Bootstrap-316192?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 
 <hr>
    <h3>Meus dados no Github</h3>
