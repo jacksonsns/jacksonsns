@@ -10,7 +10,7 @@
 
 <h3 align="center"> Olá, Eu sou Jackson Nascimento! </h3>
 
-<p>Desenvolvedor web. Especialista em Websites e Aplicações Web, com 2 anos de experiência. Adoro desafios, e meu maior objetivo é melhorar a vida das pessoas por meio da tecnologia.</p>
+<p>Desenvolvedor Full Stack, com 2 anos e meio de experiência. Adoro desafios, e meu maior objetivo é melhorar a vida das pessoas por meio da tecnologia.</p>
 
 <h3>Minhas Habilidades:</h3>
 <div align="center"> 
