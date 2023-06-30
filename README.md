@@ -29,5 +29,5 @@
    <h3>Meus dados no Github</h3>
    
 
-| <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonsns&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsns&layout=demon&theme=algolia&hide_border=true" /></a> |
-| ------------- | -------------  
+| <a href="https://github.com/jacksonsns/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonsns&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsns&layout=compact&theme=algolia&hide_border=true)](https://github.com/jacksonsns/github-readme-stats) |
+| ------------- | ------------- 
