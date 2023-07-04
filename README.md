@@ -10,7 +10,7 @@
 
 <h3 align="center"> Olá, Eu sou Jackson Nascimento! </h3>
 
-<p>Desenvolvedor, com 2 anos e meio de experiência. Adoro desafios, e meu maior objetivo é melhorar a vida das pessoas por meio da tecnologia.</p>
+<p>Desenvolvedor, com 3 anos de experiência. Adoro desafios, e meu maior objetivo é melhorar a vida das pessoas por meio da tecnologia.</p>
 
 <h3>Minhas Habilidades:</h3>
 <div align="center"> 
